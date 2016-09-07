@@ -9,6 +9,7 @@
   - [IPv6](http://www.tutorialspoint.com/ipv6/index.htm)
 
 2. Wiki pages:
+  - [Internet Technologies](https://en.wikibooks.org/wiki/Internet_Technologies/Print_version)
   - [Internet Protocol](https://en.wikipedia.org/wiki/Internet_Protocol)
   - [Hypertext Transfer Protocol](https://en.wikipedia.org/wiki/Hypertext_Transfer_Protocol)
   - [IP address](https://en.wikipedia.org/wiki/IP_address)
