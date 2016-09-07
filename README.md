@@ -2,7 +2,7 @@
 
 ### Contents:
 
-1. [Theory](/theory/README.md)
+1. [Theory](/theory)
 
 ### What is it
 ...
